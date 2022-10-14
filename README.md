@@ -21,11 +21,11 @@ https://youtu.be/37eDqbnDKhI<br>
  
 
 Support network:
-https://algonetwork.github.io/EVM-Blockchain-Index/
+https://algocryptodapp.github.io/Blockchain-To-Metamask/
 
-イーサリアムERC20トークンのワンクリック発行
-การออกโทเค็น Ethereum ERC20 เพียงคลิกเดียว
-以太坊/以太坊相似 ERC20代币一键发币
+イーサリアムERC20トークンのワンクリック発行<br>
+การออกโทเค็น Ethereum ERC20 เพียงคลิกเดียว<br>
+以太坊/以太坊相似 ERC20代币一键发币<br>
 صدور نشانه های Ethereum ERC20 با یک کلیک
 
 ERC20 token
@@ -39,13 +39,13 @@ English
 
 فارسی
 
-Need Earn cryptocurrency?
-1.Download this project,put to any web server.
-2.Open js/config.js
-3.Change the address to your own address,customize fee you will recieve. then start earn cryptocurrency!
+### Need Earn cryptocurrency?
+1.Download this project,put to any web server.<br>
+2.Open js/config.js<br>
+3.Change the address to your own address,customize fee you will recieve. then start earn cryptocurrency!<br>
 
-Tips
-After modifying the address, please refresh the website to visit after more than ten minutes, because the github cache or website may not have been changed, so the charging address is still the previous address.
+Tips<br>
+After modifying the address, please refresh the website to visit after more than ten minutes, because the github cache or website may not have been changed, so the charging address is still the previous address.<br>
 You can also Deploy to your github page
 https://github.com/AlgoCryptoDapp/Page
 
